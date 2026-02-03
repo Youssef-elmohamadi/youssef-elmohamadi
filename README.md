@@ -21,34 +21,32 @@
   </p>
 
   <p>
-    <a href="https://drive.google.com/file/d/1W272WvN9JqHiff2Bvp5UbXC-m9BobH16/view">
+    <a href="https://drive.google.com/file/d/1vDBr2wO_xFf2-P0xX-bRJSfOCimr4eCs/view?usp=drive_link">
       <img src="https://img.shields.io/badge/My CV-005520?style=flat-square&logo=googledrive&logoColor=white" style="height:34px; object-fit:contain;"/></a> &nbsp;
-    <a href="https://a-hemeda.github.io/Portfolio">
+    <a href="https://the-forge-one.vercel.app/">
       <img src="https://img.shields.io/badge/My Portfolio-003580?style=flat-square&logo=linkfire&logoColor=white" style="height:34px; object-fit:contain;"/></a>
   </p>
 
   ### 📤 Connect & Competitive Programming
   <p align="left">
-    <a href="mailto:7hemeda@gmail.com">
+    <a href="mailto:youssef.elmohamadi.dev@gmail.com">
       <img src="https://static.wikia.nocookie.net/google/images/7/72/Logo-gmail.png/revision/latest/thumbnail/width/360/height/360?cb=20201214214241" height="50"/></a> &nbsp;
-    <a href="https://www.linkedin.com/in/a-hemeda">
+    <a href="https://www.linkedin.com/in/el-mohamadi">
       <img src="https://www.iconpacks.net/icons/1/free-linkedin-icon-130-thumb.png" height="50"/></a> &nbsp;
-    <a href="https://www.whatsapp.com/channel/0029Vb3QWNLG8l5OPthU963O">
+    <a href="https://wa.me/+201098337262">
       <img src="https://marketplace.canva.com/Vmp9Y/MAEvzQVmp9Y/1/tl/canva-whatsapp-status-icon-MAEvzQVmp9Y.png" height="50"/></a> &nbsp;
-    <a href="https://www.youtube.com/@A-Hemeda">
-      <img src="https://cdn-icons-png.flaticon.com/256/1384/1384060.png" height="50"/></a> &nbsp;
-    <a href="https://stackoverflow.com/users/28317461/ahmed-hemeda">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/2048px-Stack_Overflow_icon.svg.png" height="50"/></a> &nbsp;
-    <a href="https://codeforces.com/profile/11Hemeda">
+    <!-- <a href="https://stackoverflow.com/users/28317461/ahmed-hemeda">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/2048px-Stack_Overflow_icon.svg.png" height="50"/></a> &nbsp; -->
+    <a href="https://codeforces.com/profile/el_mohammadi">
       <img src="https://cdn.iconscout.com/icon/free/png-256/free-code-forces-logo-icon-svg-download-png-2944796.png" height="50"/></a> &nbsp;
-    <a href="https://leetcode.com/u/11Hemeda">
-      <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" height="50"/></a>
+    <!-- <a href="https://leetcode.com/u/11Hemeda">
+      <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" height="50"/></a> -->
   </p>
 
 ### 🛠️ Top Technical Skills & Tools
 
   <p align="left">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,cs,dotnet,docker,sqlserver,dapper,redis,html,css,js,postman,swagger,git&perline=7" style="height:113px;"/>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,cs,dotnet,react,sqlserver,next,redis,html,css,js,postman,swagger,git&perline=7" style="height:113px;"/>
   </p>
 
 ### 🏆 GitHub Trophies
