@@ -10,7 +10,7 @@
 <h2 align="center">Software Engineer | Frontend Developer</h2>
 
 <div align="center">
-  <a href="https://www.google.com.eg/search?q=youssef-elmohamadi"> <!-- Google Me -->
+  <a href="https://www.google.com.eg/search?q=the forge youssef elmohamadi"> <!-- Google Me -->
     
   ![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&size=27&color=30F050&center=true&vCenter=true&width=500&height=70&pause=2000&duration=2000&lines=Check+my+popular+repositories;+Visit+my+Social+Accounts)
 </div>
