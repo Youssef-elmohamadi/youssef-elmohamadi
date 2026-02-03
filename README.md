@@ -1,36 +1,67 @@
-<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+  <p align="center">
+    <a href="https://gh-most-followed.pages.dev/egypt">
+      <img src="https://img.shields.io/badge/14ᵗʰ Most Followed User 🇪🇬-272730?style=flat-square&logo=github" style="height:32px; object-fit:contain;"/></a> &nbsp;
+    <a href="https://committers.top/egypt">
+      <img src="https://img.shields.io/badge/7ᵗʰ Most Active User 🇪🇬-272730?style=flat-square&logo=github" style="height:32px; object-fit:contain;"/></a>
+  </p>
 
-<h3 align="left">
-  Welcome to Youssef El Mohamadi's profile!
-   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> 
-</h3>
+<h1 align="center">Hi, I'm Youssef El-Mohamadi</h1>
+
+<h2 align="center">Software Engineer | Frontend Developer</h2>
+
+<div align="center">
+  <a href="https://www.google.com.eg/search?q=youssef-elmohamadi"> <!-- Google Me -->
+    
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&size=27&color=30F050&center=true&vCenter=true&width=500&height=70&pause=2000&duration=2000&lines=Check+my+popular+repositories;+Visit+my+Social+Accounts)
+</div>
+
+  <p>
+    <a href="https://www.google.com.eg/search?q=youssef-elmohamadi"> <!-- Google Me -->
+      <img src="https://komarev.com/ghpvc/?username=youssef-elmohamadi&style=flat&color=3010A0" style="height:27px; object-fit:contain;"/></a>
+  </p>
+
+  <p>
+    <a href="https://drive.google.com/file/d/1W272WvN9JqHiff2Bvp5UbXC-m9BobH16/view">
+      <img src="https://img.shields.io/badge/My CV-005520?style=flat-square&logo=googledrive&logoColor=white" style="height:34px; object-fit:contain;"/></a> &nbsp;
+    <a href="https://a-hemeda.github.io/Portfolio">
+      <img src="https://img.shields.io/badge/My Portfolio-003580?style=flat-square&logo=linkfire&logoColor=white" style="height:34px; object-fit:contain;"/></a>
+  </p>
+
+  ### 📤 Connect & Competitive Programming
+  <p align="left">
+    <a href="mailto:7hemeda@gmail.com">
+      <img src="https://static.wikia.nocookie.net/google/images/7/72/Logo-gmail.png/revision/latest/thumbnail/width/360/height/360?cb=20201214214241" height="50"/></a> &nbsp;
+    <a href="https://www.linkedin.com/in/a-hemeda">
+      <img src="https://www.iconpacks.net/icons/1/free-linkedin-icon-130-thumb.png" height="50"/></a> &nbsp;
+    <a href="https://www.whatsapp.com/channel/0029Vb3QWNLG8l5OPthU963O">
+      <img src="https://marketplace.canva.com/Vmp9Y/MAEvzQVmp9Y/1/tl/canva-whatsapp-status-icon-MAEvzQVmp9Y.png" height="50"/></a> &nbsp;
+    <a href="https://www.youtube.com/@A-Hemeda">
+      <img src="https://cdn-icons-png.flaticon.com/256/1384/1384060.png" height="50"/></a> &nbsp;
+    <a href="https://stackoverflow.com/users/28317461/ahmed-hemeda">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/2048px-Stack_Overflow_icon.svg.png" height="50"/></a> &nbsp;
+    <a href="https://codeforces.com/profile/11Hemeda">
+      <img src="https://cdn.iconscout.com/icon/free/png-256/free-code-forces-logo-icon-svg-download-png-2944796.png" height="50"/></a> &nbsp;
+    <a href="https://leetcode.com/u/11Hemeda">
+      <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" height="50"/></a>
+  </p>
+
+### 🛠️ Top Technical Skills & Tools
+
+  <p align="left">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,cs,dotnet,docker,sqlserver,dapper,redis,html,css,js,postman,swagger,git&perline=7" style="height:113px;"/>
+  </p>
+
+### 🏆 GitHub Trophies
+  <p align="left">
+  
+![trophy](https://github-profile-trophy-ahmed.vercel.app/?username=A-Hemeda&theme=onestar&no-bg=true&no-frame=true&row=1&column=7)
 
 <br>
 
-- 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with JavaScript, ReactJS or anything related to front-end web development.
-- ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
+  <p align="left">
+    <img src="https://streak-stats.demolab.com/?user=a-hemeda&theme=highcontrast" height="120"/>
+  </p>
 
-<br>
+### 🐍 Contribution Snake Animation
 
-### Connect with Me:
-<a href="https://www.linkedin.com/in/el-mohamadi/" target="_blank"><img src="https://img.shields.io/badge/-Youssef%20El Mohammadi-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://t.me/y_elmohamadi1" target="_blank"><img src="https://img.shields.io/badge/-Youssef%20El Mohammadi-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
-<a href="https://api.whatsapp.com/send?phone=01098337262" target="_blank"><img src="https://img.shields.io/badge/-Youssef%20El Mohammadi-0077B5?style=for-the-badge&logo=Whatsapp&logoColor=white"/></a>
-
-### 🛠 &nbsp;Tech Stack
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![React.js](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
-
-<br clear="all"> <br>
-
-<a href="https://komarev.com/ghpvc/?username=yousefdergham&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=yousefdergham&style=for-the-badge">
-</a>
+![Snake Animation](https://raw.githubusercontent.com/A-Hemeda/A-Hemeda/output/github-contribution-grid-snake-dark.svg)
